@@ -1,10 +1,12 @@
-# datafilmflutter
-
-A new Flutter project.
+# data
+App fetch api Daftar Stasiun Kereta Api di Indonesia
 # clone  
+git@github.com:rustam76/fetchapiflutter.git
 
 # jalanakan
+
 flutter pub get
+
 flutter run
 
 ## Getting Started
