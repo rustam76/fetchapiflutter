@@ -1,7 +1,7 @@
 # data
 App fetch api Daftar Stasiun Kereta Api di Indonesia
 # clone  
-git@github.com:rustam76/fetchapiflutter.git
+https://github.com/rustam76/fetchapiflutter.git
 
 # jalanakan
 
