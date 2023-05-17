@@ -1,6 +1,11 @@
 # datafilmflutter
 
 A new Flutter project.
+# clone  
+
+# jalanakan
+flutter pub get
+flutter run
 
 ## Getting Started
 
